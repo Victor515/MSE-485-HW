@@ -1,0 +1,6 @@
+total_energy		mean       stddev   corr   err
+			-257.6884  0.0028   18.39  0.0004
+
+kinetic_energy		 81.9312  14.6974   85.04  4.2861
+
+potential_energy	-339.6197 14.6990   85.04  4.2865
